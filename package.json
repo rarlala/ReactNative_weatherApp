@@ -11,6 +11,7 @@
     "axios": "^0.18.0",
     "axioss": "0.0.1-security",
     "expo": "~36.0.0",
+    "expo-linear-gradient": "~8.0.0",
     "expo-location": "~8.0.0",
     "prop-types": "^15.7.2",
     "react": "~16.9.0",
